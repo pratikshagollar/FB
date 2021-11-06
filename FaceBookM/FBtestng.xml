@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="FBSuite">
+
+
+  
+		  <test  name="crometest">
+		    
+		        <classes>
+		            <class name="testclasses.TestFB"/>
+		            <class name="testclasses.TestFB2"/>
+		         </classes>
+		  </test> 
+		  
+  
+</suite> <!-- FBSuite -->
